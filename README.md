@@ -2,6 +2,9 @@
 
 Layout de um portal de notícias feito com HTML e CSS.
 
+<p align="center"><img src=".github/preview.png" alt="Página do fullstack-portal-de-noticias" width="800"></p>
+
+
 🔗 **[Ver online](https://kayandenizo.github.io/fullstack-portal-de-noticias/)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
